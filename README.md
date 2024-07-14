@@ -1,2 +1,2 @@
 deploy: https://benjaminsepulveda67.github.io/prueba_apis/
-git:
+git: https://github.com/BenjaminSepulveda67/prueba_apis
